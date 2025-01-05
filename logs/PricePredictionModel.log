@@ -1,0 +1,255 @@
+2024-12-29 21:59:13,411 - PricePredictionModel - INFO - Initializing model
+2024-12-29 21:59:13,411 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 21:59:14,285 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 21:59:14,487 - PricePredictionModel - INFO - Transforming data
+2024-12-29 21:59:35,064 - PricePredictionModel - INFO - Initializing model
+2024-12-29 21:59:35,065 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 21:59:36,000 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 21:59:36,199 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:00:28,472 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:00:28,472 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:00:29,827 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:00:30,137 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:03:25,699 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:03:25,700 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:03:27,035 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:03:27,346 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:04:35,530 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:04:35,531 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:04:36,845 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:04:37,159 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:05:43,487 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:05:43,488 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:05:44,848 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:05:45,135 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:05:46,070 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:08:19,669 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:08:19,671 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:08:20,951 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:08:21,256 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:08:22,342 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:09:18,582 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:09:18,583 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:09:19,838 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:09:20,124 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:09:21,243 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:13:05,196 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:13:05,198 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:13:06,439 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:13:06,728 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:13:07,851 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:17:29,854 - PricePredictionModel - INFO - Initializing model
+2024-12-29 22:17:29,855 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-29 22:17:31,383 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-29 22:17:31,777 - PricePredictionModel - INFO - Transforming data
+2024-12-29 22:17:33,393 - PricePredictionModel - INFO - Transforming data
+2024-12-30 21:31:44,878 - PricePredictionModel - INFO - Initializing model
+2024-12-30 21:31:44,879 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 21:31:45,992 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 21:31:46,250 - PricePredictionModel - INFO - Transforming data
+2024-12-30 21:31:46,990 - PricePredictionModel - INFO - Transforming data
+2024-12-30 21:32:55,768 - PricePredictionModel - INFO - Initializing model
+2024-12-30 21:32:55,769 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 21:32:57,278 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 21:32:57,678 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:10:12,971 - PricePredictionModel - INFO - Initializing model
+2024-12-30 22:10:12,972 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 22:10:14,009 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 22:10:14,238 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:13:05,787 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:17:30,191 - PricePredictionModel - INFO - Initializing model
+2024-12-30 22:17:30,192 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 22:17:31,246 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 22:17:31,476 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:17:38,492 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:20:26,531 - PricePredictionModel - INFO - Initializing model
+2024-12-30 22:20:26,531 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 22:20:27,565 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 22:20:27,885 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:22:18,760 - PricePredictionModel - INFO - Initializing model
+2024-12-30 22:22:18,761 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 22:22:19,826 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 22:22:20,085 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:23:06,329 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:24:11,419 - PricePredictionModel - INFO - Initializing model
+2024-12-30 22:24:11,421 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 22:24:12,605 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 22:24:12,872 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:24:16,695 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:27:18,950 - PricePredictionModel - INFO - Initializing model
+2024-12-30 22:27:18,951 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-30 22:27:20,098 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-30 22:27:20,358 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:27:24,198 - PricePredictionModel - INFO - Transforming data
+2024-12-30 22:27:25,509 - PricePredictionModel - INFO - Root Mean Square Error: 603.5797717611599
+2024-12-30 22:27:25,509 - PricePredictionModel - INFO - Mean Absolute Error: 437.5308690933732
+2024-12-30 22:27:25,510 - PricePredictionModel - INFO - Model run completed
+2024-12-31 20:42:09,620 - PricePredictionModel - INFO - Initializing model
+2024-12-31 20:42:09,620 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 20:42:10,832 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 20:42:11,361 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:42:13,675 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:46:48,927 - PricePredictionModel - INFO - Initializing model
+2024-12-31 20:46:48,927 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 20:46:50,402 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 20:46:50,598 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:46:51,440 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:47:02,604 - PricePredictionModel - INFO - Model run completed
+2024-12-31 20:51:10,565 - PricePredictionModel - INFO - Initializing model
+2024-12-31 20:51:10,565 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 20:51:11,571 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 20:51:11,785 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:51:13,153 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:53:45,956 - PricePredictionModel - INFO - Initializing model
+2024-12-31 20:53:45,957 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 20:53:46,988 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 20:53:47,192 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:53:50,113 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:55:57,047 - PricePredictionModel - INFO - Initializing model
+2024-12-31 20:55:57,048 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 20:55:58,040 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 20:55:58,251 - PricePredictionModel - INFO - Transforming data
+2024-12-31 20:56:01,678 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:02:12,301 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:02:12,301 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:02:13,301 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:02:13,519 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:03:09,063 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:03:09,064 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:03:10,399 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:03:10,693 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:03:37,463 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:08:36,433 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:08:36,434 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:08:37,465 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:08:37,665 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:08:40,510 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:08:59,646 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:09:37,112 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:09:37,114 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:09:39,309 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:09:39,762 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:09:48,275 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:10:27,300 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:12:11,231 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:12:11,232 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:12:12,274 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:12:12,482 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:12:16,987 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:14:03,157 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:14:03,157 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:14:04,159 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:14:04,371 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:14:07,328 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:14:27,122 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:15:18,425 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:15:18,427 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:15:21,001 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:15:21,462 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:15:33,431 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:16:09,640 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:16:58,947 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:16:58,949 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:17:01,323 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:17:01,787 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:17:10,588 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:17:53,861 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:21:54,329 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:21:54,330 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:21:55,364 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:21:55,577 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:21:58,571 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:22:18,881 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:24:28,028 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:24:28,028 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:24:29,161 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:24:29,404 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:24:30,511 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:24:39,898 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:25:38,210 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:25:38,211 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:25:39,099 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:25:39,283 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:25:40,091 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:25:49,333 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:26:41,944 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:26:41,944 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:26:42,982 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:26:43,181 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:26:46,100 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:35:07,051 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:35:07,051 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:35:08,123 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:35:08,335 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:35:11,675 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:35:49,542 - PricePredictionModel - INFO - Model run completed
+2024-12-31 21:36:28,902 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:36:28,903 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:36:29,906 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:36:30,120 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:36:33,041 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:41:37,662 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:41:37,664 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:41:39,217 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:41:39,544 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:41:44,643 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:44:21,563 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:44:21,564 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:44:23,448 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:45:23,669 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:45:23,670 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:45:25,696 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:45:44,112 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:45:49,125 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:49:30,153 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:49:30,156 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:49:33,198 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:49:43,348 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:49:48,629 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:52:12,212 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:52:12,212 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:52:13,682 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:52:14,009 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:52:15,458 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:54:45,983 - PricePredictionModel - INFO - Initializing model
+2024-12-31 21:54:45,984 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2024-12-31 21:54:47,485 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2024-12-31 21:54:47,798 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:54:49,280 - PricePredictionModel - INFO - Transforming data
+2024-12-31 21:55:10,446 - PricePredictionModel - INFO - Model run completed
+2025-01-05 21:42:31,976 - PricePredictionModel - INFO - Initializing model
+2025-01-05 21:42:31,976 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2025-01-05 21:42:33,035 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2025-01-05 21:42:33,298 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:42:34,112 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:42:59,230 - PricePredictionModel - INFO - Model run completed
+2025-01-05 21:43:54,985 - PricePredictionModel - INFO - Initializing model
+2025-01-05 21:43:54,986 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2025-01-05 21:43:55,859 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2025-01-05 21:43:56,035 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:43:56,843 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:44:08,410 - PricePredictionModel - INFO - Model run completed
+2025-01-05 21:44:56,977 - PricePredictionModel - INFO - Initializing model
+2025-01-05 21:44:56,977 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2025-01-05 21:44:57,883 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2025-01-05 21:44:58,059 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:44:58,848 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:45:09,943 - PricePredictionModel - INFO - Model run completed
+2025-01-05 21:53:23,379 - PricePredictionModel - INFO - Initializing model
+2025-01-05 21:53:23,379 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2025-01-05 21:53:24,585 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2025-01-05 21:53:24,823 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:53:26,033 - PricePredictionModel - INFO - Transforming data
+2025-01-05 21:53:40,355 - PricePredictionModel - INFO - Model run completed
+2025-01-05 22:00:59,273 - PricePredictionModel - INFO - Initializing model
+2025-01-05 22:00:59,274 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2025-01-05 22:01:00,204 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2025-01-05 22:01:00,395 - PricePredictionModel - INFO - Transforming data
+2025-01-05 22:01:01,209 - PricePredictionModel - INFO - Transforming data
+2025-01-05 22:01:13,445 - PricePredictionModel - INFO - Model run completed
+2025-01-05 22:01:50,272 - PricePredictionModel - INFO - Initializing model
+2025-01-05 22:01:50,272 - PricePredictionModel - INFO - Loading data from ./data/DatiumTrain.rpt
+2025-01-05 22:01:51,202 - PricePredictionModel - INFO - Loading data from ./data/DatiumTest.rpt
+2025-01-05 22:01:51,380 - PricePredictionModel - INFO - Transforming data
+2025-01-05 22:01:52,191 - PricePredictionModel - INFO - Transforming data
+2025-01-05 22:02:03,897 - PricePredictionModel - INFO - Model run completed
